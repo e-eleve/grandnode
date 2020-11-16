@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Language Name="English">
   <LocaleResource Name="Account.AccountActivation">
     <Value>Ativação de conta</Value>
@@ -4462,7 +4462,7 @@
     <Value>Adicionar novo registro</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Common.All">
-    <Value>Tudo</Value>
+    <Value>Todos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Common.AreYouSure">
     <Value>Você tem certeza?</Value>
@@ -4471,13 +4471,13 @@
     <Value>Cancelar</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Common.Change">
-    <Value>mudança</Value>
+    <Value>Alterar</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Common.Check">
-    <Value>Verifica</Value>
+    <Value>Verificar</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Common.Clear">
-    <Value>Claro</Value>
+    <Value>Limpar</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Common.ConfigurationNotRequired">
     <Value>A configuração não é necessária</Value>
@@ -5143,7 +5143,7 @@
     <Value>Nome do sistema</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Languages">
-    <Value>línguas</Value>
+    <Value>Idiomas</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Languages.Added">
     <Value>O novo idioma foi adicionado com sucesso.</Value>
@@ -10138,7 +10138,7 @@
     <Value>Listas de desejos atuais</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers">
-    <Value>clientes</Value>
+    <Value>Clientes</Value>
   </LocaleResource>
   <LocaleResource Name="admin.customers.actiontype">
     <Value>Tipo de ação do cliente</Value>
@@ -10978,7 +10978,7 @@
     <Value>A função do cliente foi atualizada com sucesso.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers">
-    <Value>clientes</Value>
+    <Value>Clientes</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.ActivityLog">
     <Value>Registro de atividade</Value>
@@ -11641,7 +11641,7 @@
     <Value>voltar à lista de tags</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.CustomerTags.Customers">
-    <Value>clientes</Value>
+    <Value>Clientes</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.CustomerTags.Customers.SaveBeforeEdit">
     <Value>Você precisa salvar a tag.</Value>
@@ -11796,11 +11796,14 @@
   <LocaleResource Name="Admin.Dashboard">
     <Value>Painel de Controle</Value>
   </LocaleResource>
+    <LocaleResource Name="Admin.Dashboard.Summary">
+    <Value>Resumo</Value>
+  </LocaleResource>
   <LocaleResource Name="Admin.Dashboard.ActiveShoppingCarts">
     <Value>Carrinhos de compras ativos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Dashboard.ActivityOverview">
-    <Value>Visão Geral da Atividade</Value>
+    <Value>Atividades</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Dashboard.ActivityOverview.AbandonedCarts">
     <Value>Carrinhos abandonados</Value>
@@ -11815,7 +11818,7 @@
     <Value>Pedidos de devolução pendentes</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Dashboard.ActivityOverview.TodayRegisteredCustomers">
-    <Value>Hoje clientes registrados</Value>
+    <Value>Clientes registrados hoje</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Dashboard.GoogleAnalytics">
     <Value>Google Analytics</Value>
@@ -11866,7 +11869,7 @@
     <Value>Estatísticas da loja</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Dashboard.TodayOrders">
-    <Value>Hoje encomendas</Value>
+    <Value>Pedidos de hoje</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Dashboard.TodayOrders.AmountCount">
     <Value>Quantidade / Contagem</Value>
@@ -12920,7 +12923,7 @@
     <Value>Data de início</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.List.StartDate.Hint">
-    <Value>A data de início (data de criação da remessa) para a pesquisa</Value>
+    <Value>A data de início (data de criação do envio) para a pesquisa</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.List.StateProvince">
     <Value>Estado / província</Value>
@@ -12935,16 +12938,16 @@
     <Value>Pesquise por um número de rastreamento específico.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.List.Warehouse">
-    <Value>Armazém</Value>
+    <Value>Centro de Distribuição</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.List.Warehouse.Hint">
-    <Value>Carregue remessas com produtos de um armazém especificado.</Value>
+    <Value>Carregue envios com produtos de um centro de distribuição específico.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.NoProductsSelected">
     <Value>Nenhum produto selecionado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.NoShipmentsSelected">
-    <Value>Nenhuma remessa selecionada</Value>
+    <Value>Nenhum envio selecionado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.OrderID">
     <Value>Ordem #</Value>
@@ -13004,7 +13007,7 @@
     <Value>O valor da quantidade [Reservado - planejado] de alguns produtos é menor que a quantidade especificada a ser enviada. Você tem certeza?</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.ShipmentStatusEvents">
-    <Value>Eventos de status de remessa</Value>
+    <Value>Status de envio</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.ShipmentStatusEvents.Country">
     <Value>País</Value>
@@ -13028,7 +13031,7 @@
     <Value>Data e hora devem ser inseridas no fuso horário padrão da loja</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.ShippedDate.Hint">
-    <Value>A data em que esta remessa foi enviada.</Value>
+    <Value>A data em que o pedido foi enviado.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.ShippedDate.NotYet">
     <Value>Ainda não</Value>
@@ -13040,7 +13043,7 @@
     <Value>Peso total</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.TotalWeight.Hint">
-    <Value>Peso total da remessa.</Value>
+    <Value>Peso total do pacote.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.TrackingNumber">
     <Value>Numero de rastreio</Value>
@@ -13049,13 +13052,13 @@
     <Value>Definir número de rastreamento</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.TrackingNumber.Hint">
-    <Value>Defina um número de rastreamento da remessa atual.</Value>
+    <Value>Defina um número de rastreamento do envio atual.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.TrackingNumber.ViewOnline">
     <Value>Ver informações de rastreamento</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.ViewDetails">
-    <Value>Exibir detalhes da remessa</Value>
+    <Value>Exibir detalhes do envio</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.ShippingInfo">
     <Value>Informação de Envio</Value>
@@ -13997,7 +14000,7 @@
     <Value>Processar o próximo pagamento (criar um novo pedido)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.RecurringPayments.History.ShippingStatus">
-    <Value>Status da remessa</Value>
+    <Value>Status do envio</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.RecurringPayments.Info">
     <Value>Informações de pagamento recorrente</Value>
@@ -15230,10 +15233,10 @@
     <Value>A moeda da loja principal está definida</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.Shipping.NoComputationMethods">
-    <Value>Nenhum método de cálculo da taxa de remessa ativado</Value>
+    <Value>Nenhum método de cálculo da taxa de envio ativado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.Shipping.OnlyOneOffline">
-    <Value>Apenas um método de cálculo da taxa de remessa offline é recomendado para uso</Value>
+    <Value>Apenas um método de cálculo da taxa de envio offline é recomendado para uso</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.URL.Match">
     <Value>O URL da loja especificado corresponde a este URL da loja</Value>
@@ -15365,7 +15368,7 @@
     <Value>Se os clientes têm permissão para selecionar o tamanho da página em uma lista predefinida de opções.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.AssociatedCustomerEmails">
-    <Value>clientes</Value>
+    <Value>Clientes</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.AssociatedCustomerEmails.Hint">
     <Value>Uma lista de contas de clientes que podem ser usadas para gerenciar produtos e pedidos deste fornecedor (tenha acesso ao portal do fornecedor). Você pode associar clientes a um fornecedor em uma página de detalhes do cliente. Se você não deseja que o fornecedor tenha acesso ao portal do fornecedor, não associe nenhuma conta de cliente a ele.</Value>
@@ -15944,7 +15947,7 @@
     <Value>Forma de pagamento</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.Progress.Shipping">
-    <Value>Remessa</Value>
+    <Value>Envio</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.SelectBillingAddress">
     <Value>Selecione o endereço de faturamento</Value>
@@ -16262,7 +16265,7 @@
     <Value>Sua pergunta foi enviada com sucesso ao fornecedor.</Value>
   </LocaleResource>
   <LocaleResource Name="Content.CopyrightNotice">
-    <Value>Copyright &amp;cópia; {0} {1} Todos os direitos reservados.</Value>
+    <Value>Copyright © {0} {1} Todos os direitos reservados.</Value>
   </LocaleResource>
   <LocaleResource Name="Currencies">
     <Value>Moedas</Value>
@@ -17287,7 +17290,7 @@
     <Value>{0} pontos de recompensa:</Value>
   </LocaleResource>
   <LocaleResource Name="Messages.Order.Shipping">
-    <Value>Remessa:</Value>
+    <Value>Envio:</Value>
   </LocaleResource>
   <LocaleResource Name="Messages.Order.SubTotal">
     <Value>Subtotal:</Value>
@@ -17518,7 +17521,7 @@
     <Value>{0} pontos de recompensa</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Shipments">
-    <Value>Remessas</Value>
+    <Value>Envios</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Shipments.DeliveryDate">
     <Value>Data de entrega</Value>
@@ -17536,7 +17539,7 @@
     <Value>Envio #</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Shipments.Information">
-    <Value>Remessa #{0}</Value>
+    <Value>Envio #{0}</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Shipments.Order#">
     <Value>Ordem #</Value>
@@ -17578,7 +17581,7 @@
     <Value>Ver detalhes</Value>
   </LocaleResource>
   <LocaleResource Name="Order.ShipmentStatusEvents">
-    <Value>Eventos de status de remessa</Value>
+    <Value>Eventos de status de expedição</Value>
   </LocaleResource>
   <LocaleResource Name="Order.ShipmentStatusEvents.Country">
     <Value>País</Value>
@@ -17593,13 +17596,13 @@
     <Value>Localização</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Shipping">
-    <Value>Remessa</Value>
+    <Value>Expedição</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Shipping.Name">
     <Value>método de envio</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Shipping.Status">
-    <Value>Status da remessa</Value>
+    <Value>Status de envio</Value>
   </LocaleResource>
   <LocaleResource Name="Order.ShippingAddress">
     <Value>endereço de entrega</Value>
@@ -17756,7 +17759,7 @@
     <Value>Publicar uma mensagem privada</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.ShipmentDetails">
-    <Value>Detalhes da remessa</Value>
+    <Value>Detalhes do envio</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.ShoppingCart">
     <Value>Carrinho de compras</Value>
@@ -17903,7 +17906,7 @@
     <Value>{0} pontos de recompensa:</Value>
   </LocaleResource>
   <LocaleResource Name="PDFInvoice.Shipping">
-    <Value>Remessa:</Value>
+    <Value>Expedição:</Value>
   </LocaleResource>
   <LocaleResource Name="PDFInvoice.ShippingInformation">
     <Value>Informação de envio:</Value>
@@ -17951,7 +17954,7 @@
     <Value>Quantidade</Value>
   </LocaleResource>
   <LocaleResource Name="PDFPackagingSlip.Shipment">
-    <Value>Remessa #{0}</Value>
+    <Value>Expedição #{0}</Value>
   </LocaleResource>
   <LocaleResource Name="PDFPackagingSlip.ShippingMethod">
     <Value>Método de envio: {0}</Value>
@@ -18101,7 +18104,7 @@
     <Value>Area de administração. Gerenciar configurações</Value>
   </LocaleResource>
   <LocaleResource Name="Permission.ManageShippingSettings">
-    <Value>Area de administração. Gerenciar configurações de remessa</Value>
+    <Value>Area de administração. Gerenciar configurações de expedição</Value>
   </LocaleResource>
   <LocaleResource Name="Permission.ManageStores">
     <Value>Area de administração. Gerenciar lojas</Value>
@@ -18965,7 +18968,7 @@
     <Value>Carrinho clara</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.ConflictingShipmentSchedules">
-    <Value>Seu carrinho possui itens de remessa automática (recorrentes) com agendas de remessas conflitantes. Somente uma programação de envio automático é permitida por pedido.</Value>
+    <Value>Seu carrinho possui itens de envio automático (recorrentes) com agendas de expedição conflitantes. Somente uma programação de envio automático é permitida por pedido.</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.ContinueShopping">
     <Value>Continue comprando</Value>
@@ -19052,7 +19055,7 @@
     <Value>Adicionar vale-presente</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.GiftCardCouponCode.DontWorkWithAutoshipProducts">
-    <Value>Você não pode usar cartões-presente com itens de remessa automática (recorrentes).</Value>
+    <Value>Você não pode usar cartões-presente com itens de expedição automática (recorrentes).</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.GiftCardCouponCode.Tooltip">
     <Value>Digite o código do vale-presente</Value>
@@ -19251,7 +19254,7 @@
     <Value>{0} pontos</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.Totals.Shipping">
-    <Value>Remessa</Value>
+    <Value>Expedição</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.Totals.Shipping.Method">
     <Value>({0})</Value>
@@ -19997,7 +20000,7 @@
     <Value>Ligações</Value>
   </LocaleResource>
   <LocaleResource Name="Mobile.Menu">
-    <Value>Cardápio</Value>
+    <Value>Menu</Value>
   </LocaleResource>
   <LocaleResource Name="Footer.Aboutus">
     <Value>Sobre nós</Value>
@@ -20009,7 +20012,7 @@
     <Value>Telefone:</Value>
   </LocaleResource>
   <LocaleResource Name="Footer.Email.Title">
-    <Value>O email:</Value>
+    <Value>E-mail:</Value>
   </LocaleResource>
   <LocaleResource Name="Footer.Hour.Title">
     <Value>Hora:</Value>
@@ -20301,5 +20304,8 @@
   </LocaleResource>
   <LocaleResource Name="Admin.Reports.Period.year">
     <Value>No último ano</Value>
+  </LocaleResource>
+   <LocaleResource Name="Footer.CompanyName.Title">
+    <Value>Empresa:</Value>
   </LocaleResource>
 </Language>
